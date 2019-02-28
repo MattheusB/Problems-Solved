@@ -1,4 +1,4 @@
-# https://www.urionlinejudge.com.br/judge/pt/problems/view/1373
+//https://www.urionlinejudge.com.br/judge/pt/problems/view/1373
 
 import java.util.Scanner;
 

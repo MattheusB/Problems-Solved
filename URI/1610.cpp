@@ -1,4 +1,4 @@
-# https://www.urionlinejudge.com.br/judge/pt/problems/view/1610
+// https://www.urionlinejudge.com.br/judge/pt/problems/view/1610
 
 #include <cstring>
 #include <iostream>

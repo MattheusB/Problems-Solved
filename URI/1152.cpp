@@ -1,4 +1,4 @@
-# https://www.urionlinejudge.com.br/judge/pt/problems/view/1152
+//https://www.urionlinejudge.com.br/judge/pt/problems/view/1152
 
 #include <stdio.h>
 #include <string>
